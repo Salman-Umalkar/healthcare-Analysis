@@ -50,7 +50,8 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 ---
 
 ## 🧪 Lab Results & Doctor Performance
-![Dashboard 3](?raw=true)
+![Dashboard 3](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%203.png?raw=true)
+
 ---
 
 ## 📁 Excel Dashboard / Dataset
