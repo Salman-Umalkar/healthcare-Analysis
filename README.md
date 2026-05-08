@@ -63,7 +63,7 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 
 ## 📈 Visit & Treatment Analysis
 
-![Dashboard 2](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/visit%20%26%20treatment%20analysis.png?raw=true)
+![Dashboard 2](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/visit%20%26%20treatment%20analysis%20page%202.png?raw=true)
 
 ---
 
