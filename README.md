@@ -39,7 +39,7 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 
 ## 📊 Power BI Dashboard
 ## 🏥 Patient Demographics Overview
-![Dashboard 1](?raw=true)
+![Dashboard 1](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%201.png?raw=true)
 
 ---
 
