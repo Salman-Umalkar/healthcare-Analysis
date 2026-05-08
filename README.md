@@ -38,7 +38,7 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 # 🔗 Project Links
 
 ## 📊 Power BI Dashboard
-https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%201.png
+(https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%201.png)
 
 ---
 
