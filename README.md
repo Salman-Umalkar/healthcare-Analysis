@@ -55,7 +55,21 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 ---
 
 ## 📁 Excel Dashboard / Dataset
-👉 Add Excel File Link Here
+
+## 🏥 Patient Demographics Overview
+![Dashboard 1](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/patient%20overview.png?raw=true)
+
+---
+
+## 📈 Visit & Treatment Analysis
+
+![Dashboard 2](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%202.png?raw=true)
+
+---
+
+## 🧪 Lab Results & Doctor Performance
+![Dashboard 3](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%203.png?raw=true)
+
 
 ---
 
