@@ -73,19 +73,6 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 
 ---
 
-## 💻 SQL Queries
-👉 Add SQL Queries Link Here
-
----
-
-# 📂 Dashboard Pages
-
-1. Patient Demographics Overview  
-2. Lab Results & Doctor Performance  
-3. Visit & Treatment Analysis  
-
----
-
 # 📊 Dashboard 1: Patient Demographics Overview
 
 ## 🔹 KPI Cards
