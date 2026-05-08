@@ -68,7 +68,7 @@ This dashboard converts raw healthcare data into meaningful business insights fo
 ---
 
 ## 🧪 Lab Results & Doctor Performance
-![Dashboard 3](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/PBI%20page%203.png?raw=true)
+![Dashboard 3](https://github.com/Salman-Umalkar/healthcare-Analysis/blob/main/lab%20result%20%26%20doctor%20performance.png?raw=true)
 
 
 ---
